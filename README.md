@@ -1,0 +1,1 @@
+A Group project for school. Built by a randomly assigned group of four of us, with a four day timeline using VUE. No one in the group had used VUE before starting this project.
